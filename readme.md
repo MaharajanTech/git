@@ -1,5 +1,5 @@
 # Git Course
-This is complete course
+This is complete git
 
 
 ## Change from feature
